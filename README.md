@@ -5,13 +5,16 @@ Prediction & Rest API Service Code
 - last update: 2019.08.01 
 
 ## A. Code List
+
 **0. Model Training**
+
     - 00. titanic_kudu_insert.py : save csv to Kudu
     - 01. titanic_preprocessing.py : Read Data from Kudu
     - 02. titanic_training.py : Make Models, Evaluate Modes, select Best Model
     - 03. titatic_predicing.py : Predicting Data, Save result kudu, Mongo, CSV
 
 **1. Predict **
+
     - predict_titanic.py : Rest API Service 
     - predict_test.py : Rest API Service Call 
 
