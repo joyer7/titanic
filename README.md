@@ -6,22 +6,17 @@ Prediction & Rest API Service Code
 
 ## A. Code List
 **0. Model Training**
-
     - 00. titanic_kudu_insert.py : save csv to Kudu
     - 01. titanic_preprocessing.py : Read Data from Kudu
     - 02. titanic_training.py : Make Models, Evaluate Modes, select Best Model
     - 03. titatic_predicing.py : Predicting Data, Save result kudu, Mongo, CSV
 
 **1. Predict **
-
     - predict_titanic.py : Rest API Service 
     - predict_test.py : Rest API Service Call 
 
-**3. ETC**
+**2. ETC*
 
-    - Example5_Hartford Drug User Social Network Analysis using CAS HyperGroup.ipynb    (**Network**)
-    - Example6_Factorization Machine Recommendation Engine Workflow.ipynb (**Recommendation**)
-    - Example7_RNN_Twitter_Sentiment_Analysis.ipynb  (**Text Analytics**)
 
 ## B. Sample Data
     - ./data/titanic_train.csv 
