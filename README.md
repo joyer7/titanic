@@ -18,7 +18,7 @@ Prediction & Rest API Service Code
     - predict_titanic.py : Rest API Service 
     - predict_test.py : Rest API Service Call 
 
-**2. ETC*
+**2. ETC **
 
 
 ## B. Sample Data
