@@ -13,12 +13,12 @@ Prediction & Rest API Service Code
     - 02. titanic_training.py : Make Models, Evaluate Modes, select Best Model
     - 03. titatic_predicing.py : Predicting Data, Save result kudu, Mongo, CSV
 
-**1. Predict **
+**1. Predict**
 
     - predict_titanic.py : Rest API Service 
     - predict_test.py : Rest API Service Call 
 
-**2. ETC **
+**2. ETC**
 
 
 ## B. Sample Data
